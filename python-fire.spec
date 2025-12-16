@@ -1,6 +1,6 @@
 Name:           python-fire
-Version:        0.7.0
-Release:        2
+Version:        0.7.1
+Release:        1
 Summary:        A library for automatically generating command line interfaces
 License:        Apache-2.0
 URL:            https://github.com/google/python-fire

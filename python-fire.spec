@@ -18,4 +18,4 @@ interfaces (CLIs) from a Python object.
 %files
 %license LICENSE
 %{python_sitelib}/fire
-%{python_sitelib}/fire-*.egg-info
+#{python_sitelib}/fire-*.egg-info
